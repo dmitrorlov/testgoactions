@@ -1,0 +1,5 @@
+module github.com/dmitrorlov/testgoactions
+
+go 1.16
+
+require github.com/goutlz/logz v1.0.1
